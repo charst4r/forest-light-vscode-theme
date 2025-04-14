@@ -1,6 +1,6 @@
 {
-  "name": "forest-green-light",
-  "displayName": "forest green light",
+  "name": "forest-light",
+  "displayName": "forest light",
   "description": "a calming light green vscode theme. catered to my tastes.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "forest green light",
+        "label": "forest light",
         "uiTheme": "vs",
-        "path": "./themes/forest-green-light-color-theme.json"
+        "path": "./themes/forest-light-color-theme.json"
       }
     ]
   }
