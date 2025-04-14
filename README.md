@@ -1,4 +1,4 @@
-# forest green light
+# forest light :: vscode theme
 
 a calming light green vscode theme. catered to my own tastes.
 
