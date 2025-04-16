@@ -17,5 +17,9 @@
         "path": "./themes/forest-light-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/charst4r/forest-light-vscode-theme/"
   }
 }
