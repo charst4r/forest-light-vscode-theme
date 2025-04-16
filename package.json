@@ -1,6 +1,6 @@
 {
   "name": "forest-light",
-  "displayName": "forest light",
+  "displayName": "forest light theme",
   "description": "a calming light green vscode theme. catered to my tastes.",
   "version": "0.0.1",
   "engines": {
@@ -21,5 +21,6 @@
   "repository": {
     "type": "git", 
     "url": "https://github.com/charst4r/forest-light-vscode-theme/"
-  }
+  },
+  "publisher": "charst4r"
 }
